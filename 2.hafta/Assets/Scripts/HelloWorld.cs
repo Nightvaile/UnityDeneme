@@ -27,6 +27,8 @@ public class HelloWorld : MonoBehaviour
     }
     void Start()
     {
+        BolenBul(1, 10);
+        BolenBul(100, 150);
         BolenBul(12, 30);
     }
 
